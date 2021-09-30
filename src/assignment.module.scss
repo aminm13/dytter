@@ -1,0 +1,20 @@
+.assignment {
+  width: 60rem;
+  min-height: 20rem;
+  padding: 1rem 2rem;
+
+  border: 3px #406040 solid;
+
+  text-align: left;
+  font-size: 1.5rem;
+
+  dl {
+    dt {
+      font-weight: bold;
+    }
+  }
+
+  a {
+    color: #bbf;
+  }
+}
